@@ -2,9 +2,9 @@
 
 # Hi, I'm Furkan ÇİNÇİK 👋
 
-### Software Engineering Student • AI • Test Automation • Python
+### AI • Reinforcement Learning • Test Automation
 
-Building intelligent software systems focused on **Automated Testing, Reinforcement Learning and Program Analysis.**
+Building intelligent software focused on **Automated Testing, Reinforcement Learning and Program Analysis.**
 
 <br>
 
@@ -16,51 +16,37 @@ Building intelligent software systems focused on **Automated Testing, Reinforcem
 
 ---
 
-# 💻 Technologies
+## 💻 Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,postgres,mysql,git,github,vscode,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,git,github,vscode,linux&perline=8"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pycharm,pytest,bash&perline=6"/>
+<img src="https://skillicons.dev/icons?i=pycharm,pytest,bash&perline=3"/>
 
 </div>
 
 ---
 
-# 🚀 Interests
+## 🎯 Focus
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge)
 
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-1F2937?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-1F2937?style=for-the-badge)
 
-![Software Testing](https://img.shields.io/badge/Software_Testing-374151?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-374151?style=for-the-badge)
 
-![Program Analysis](https://img.shields.io/badge/Program_Analysis-4B5563?style=for-the-badge)
-
-![Backend Development](https://img.shields.io/badge/Backend_Development-6B7280?style=for-the-badge)
+![Program Analysis](https://img.shields.io/badge/Program%20Analysis-4B5563?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=furkancincik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancincik&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -72,6 +58,6 @@ Building intelligent software systems focused on **Automated Testing, Reinforcem
 
 <div align="center">
 
-### 💡 "Turning intelligent ideas into reliable software."
+> **Turning intelligent ideas into reliable software.**
 
 </div>
