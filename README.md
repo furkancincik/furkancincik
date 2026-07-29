@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**furkancincik/furkancincik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Furkan ÇİNÇİK 👋
 
-Here are some ideas to get you started:
+### Software Engineering Student • AI • Test Automation • Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent software systems focused on **Automated Testing, Reinforcement Learning and Program Analysis.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/furkan-%C3%A7in%C3%A7ik-a5b13b271">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 💻 Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,postgres,mysql,git,github,vscode,linux&perline=10"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pycharm,pytest,bash&perline=6"/>
+
+</div>
+
+---
+
+# 🚀 Interests
+
+<div align="center">
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge)
+
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-1F2937?style=for-the-badge)
+
+![Software Testing](https://img.shields.io/badge/Software_Testing-374151?style=for-the-badge)
+
+![Program Analysis](https://img.shields.io/badge/Program_Analysis-4B5563?style=for-the-badge)
+
+![Backend Development](https://img.shields.io/badge/Backend_Development-6B7280?style=for-the-badge)
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=furkancincik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancincik&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkancincik&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Turning intelligent ideas into reliable software."
+
+</div>
