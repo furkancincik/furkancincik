@@ -30,27 +30,11 @@ Building intelligent software focused on **Automated Testing, Reinforcement Lear
 
 ---
 
-## 🎯 Focus
-
-<div align="center">
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge)
-
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-1F2937?style=for-the-badge)
-
-![Test Automation](https://img.shields.io/badge/Test%20Automation-374151?style=for-the-badge)
-
-![Program Analysis](https://img.shields.io/badge/Program%20Analysis-4B5563?style=for-the-badge)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=furkancincik&theme=github-compact&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=furkancincik&theme=github-compact&hide_border=true"/>
 
 </div>
 
