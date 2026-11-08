@@ -4,7 +4,7 @@
 
 ### Applied AI • Reinforcement Learning • Test Automation
 
-Building intelligent applications focused on **Automated Testing, Program Analysis, and Full-Stack Development.**
+Building intelligent applications focused on **Automated Testing, Program Analysis.**
 
 <br>
 
